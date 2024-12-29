@@ -1,0 +1,3 @@
+var fname = "\t\n Maria";
+console.log(fname);
+console.log(fname.trim());
